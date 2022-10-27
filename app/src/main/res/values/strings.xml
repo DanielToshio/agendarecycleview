@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_entre_com_nome">Entre com Nome</string>
+    <string name="hint_entre_com_o_numero">Entre com o numero</string>
+    <string name="hint_salvar_contato">Salvar contato</string>
+    <string name="salvar">Salvar</string>
+    <string name="desistir">Desistir</string>
+    <string name="Nome1">Nome1</string>
+    <string name="Nome2">Nome2</string>
+    <string name="Editar">Editar</string>
+    <string name="telefone">telefone</string>
+</resources>
